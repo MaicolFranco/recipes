@@ -1,0 +1,19 @@
+
+html, body{
+    width: 100%;
+}
+
+body{
+    background-color: white;
+    padding: 10px;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+
+.ingredient_head{
+    width: 100%;
+    margin-bottom: 10px;
+}
